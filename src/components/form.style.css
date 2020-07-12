@@ -1,0 +1,6 @@
+.locationBox{
+    background: none;
+}
+::placeholder{
+    color: white;
+}
